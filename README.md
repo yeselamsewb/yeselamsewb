@@ -30,3 +30,4 @@
 </p>
 
 <img alt="yeselamsew's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=yeselamsewb&show_icons=true&theme=dracula&count_private=true&hide_border=true">
+ <img alt="yeselamsew's GitHub Streak" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeselamsewb&theme=dracula&hide_border=true">
