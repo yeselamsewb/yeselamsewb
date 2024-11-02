@@ -29,3 +29,4 @@
   <strong>Let's create something amazing together! 🚀</strong>
 </p>
 
+<img alt="yeselamsew's Github Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=yeselamsewb&show_icons=true&theme=dracula&count_private=true&hide_border=true">
