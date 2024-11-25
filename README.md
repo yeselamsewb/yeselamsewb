@@ -3,9 +3,7 @@
   <strong>👨‍💻 Passionate Developer | 📚 Student | 🎧 Lo-fi & Christian Music Fan</strong>
 </p>
 
-<p align="center">
-  <em>Coding my way through life in Ethiopia 🇪🇹</em>
-</p>
+
 
 ---
 
