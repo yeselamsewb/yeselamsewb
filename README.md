@@ -11,7 +11,7 @@
 - 🕰 16 years old, balancing school and code like a pro!
 - 💡 Always curious, especially about programming and solving bugs.
 - 🎒 Juggling studies with a packed daily routine.
-
+-    Just the chill guy
 ### 🎶 Music & Interests
 - 🎶 Lo-fi beats and uplifting Christian music keep me motivated.
 - ✨ I believe in the importance of faith and stay connected to my values.
