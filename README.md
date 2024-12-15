@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Yeselamsew Bekele</h1>
 <p align="center">
-  <strong>👨‍💻 Passionate Developer | 📚 Student | 🎧 Lo-fi & Christian Music </strong>
+  <strong>👨‍💻 Passionate Developer | 📚 Student | 🎧 Lo-fi & Christian Music Addict </strong>
 </p>
 
 
