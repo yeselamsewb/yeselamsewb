@@ -28,4 +28,4 @@
 </p>
 
 
- <img alt="yeselamsew's GitHub Streak" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeselamsewb&theme=dracula&hide_border=true">
+ <img alt="yeselamsew's GitHub Streak" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeselamsewb&theme=dracula&hide_border=true" aligin="center">
