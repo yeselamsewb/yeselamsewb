@@ -11,7 +11,7 @@
 - 🕰 16 years old, balancing school and code like a pro!
 - 💡 Always curious, especially about programming and solving bugs.
 - 🎒 Juggling studies with a packed daily routine.
-- Chatgpt is only bestfriend
+- Chatgpt is only bestfriend.
 ### 🎶 Music & Interests
 - 🎶 Lo-fi beats and Christian music addicted
 - ✨ I believe in the importance of faith and stay connected to my values.
