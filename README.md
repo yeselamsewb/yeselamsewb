@@ -12,7 +12,7 @@
 - 💡 Always curious, especially about programming and solving bugs.
 - 🎒 Juggling studies with a packed daily routine.
 - My best friend is chatgpt
-- my second language is google.
+- My second language is google.
 ### 🎶 Music & Interests
 - 🎶 Lo-fi beats and Christian music addicted
 - ✨ I believe in the importance of faith and stay connected to my values.
