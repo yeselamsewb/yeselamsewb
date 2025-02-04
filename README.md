@@ -27,6 +27,6 @@
 <p align="center">
   <strong>Let's create something amazing together! 🚀</strong>
 </p>
-
-
- <img alt="yeselamsew's GitHub Streak" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=yeselamsewb&theme=dracula&hide_border=true" weight="100%">
+<center>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeselamsewb&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+</center>
