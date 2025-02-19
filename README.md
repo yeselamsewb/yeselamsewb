@@ -27,4 +27,5 @@
 <p align="center">
   <strong>Let's create something amazing together! 🚀</strong>
 </p>
-![giphy](https://i.pinimg.com/736x/fa/1e/00/fa1e001b55038ae6a03fc448af2ba577.jpg")
+
+![giphy](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
