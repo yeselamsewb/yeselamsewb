@@ -20,7 +20,7 @@
 ### 💻 Current Focus
 - 🛠 Enhancing my coding skills one line at a time.
 - 📚 Learning new things every day, even if it means coding into the late hours.
-- and school 
+- ✨ That one crazy startup
 
 ---------------------------------------------------------------------------------------------------
 
