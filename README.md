@@ -8,7 +8,6 @@
 ---
 
 ### 🌟 About Me
-- 🕰 16 years old, balancing school and code like a pro!
 - 💡 Always curious, especially about programming and solving bugs.
 - 🎒 Juggling studies with a packed daily routine.
 - My best friend is chatgpt
