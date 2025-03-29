@@ -3,6 +3,17 @@
   <strong>👨‍💻 Passionate Developer | 📚 Student </strong>
 </p>
 
+<a href="https://linkedin.com/in/yeselamsewb" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/yeselamsew_b" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+<a href="https://instagram.com/yeselamsew_b" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+</a>
+
+
 
 
 ---
@@ -22,9 +33,9 @@
 - ✨ That one crazy startup
 
 ---------------------------------------------------------------------------------------------------
-
+<p> 
+<img align = "center" src="https://github-readme-streak-stats.herokuapp.com?user=yeselamsewb&theme=blueberry_duo">
+</p>
 <p align="center">
   <strong>Let's create something amazing together! 🚀</strong>
 </p>
-
-![giphy](https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif)
