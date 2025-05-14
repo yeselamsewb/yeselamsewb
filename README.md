@@ -6,10 +6,10 @@
 <a href="https://linkedin.com/in/yeselamsewb" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://twitter.com/babyiscoding" target="_blank">
+<a href="https://twitter.com/babywhocodes" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
-<a href="https://instagram.com/babyiscoding" target="_blank">
+<a href="https://instagram.com/babywhocodes" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
 
