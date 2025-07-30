@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Yeselamsew</h1>
 <p align="center">
-  <strong>👨‍💻 Passionate Developer | 📚 Student </strong>
+  <strong>👨‍💻 App Developer  </strong>
 </p>
 
 <a href="https://linkedin.com/in/yeselamsewb" target="_blank">
